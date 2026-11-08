@@ -553,6 +553,8 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
 
+- **[mcp-b2b-intelligence-hub](https://github.com/ronanchnlps-bit/mcp-b2b-intelligence-hub)** - Unified 8-tool MCP server for WCAG 2.2 AA accessibility auditing, EU AI Act checks, security headers, and B2B domain intelligence
+
 ## Clients
 
 - **[MBro](https://github.com/sitbon/magg/blob/main/docs/mbro.md)** - A powerful interactive terminal **M**CP **Bro**wser client with tab completion and automatic documentation that allows you to work with multiple MCP servers, manage tools, and create complex workflows using AI assistants.
@@ -581,3 +583,4 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- **[openapi-swagger-mcp-tool-generator-cli](https://github.com/LBCron/openapi-swagger-mcp-tool-generator-cli)** - Zero-dependency CLI that converts OpenAPI 3.x / Swagger specifications into runnable TypeScript MCP servers with Zod validation
